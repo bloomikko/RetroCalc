@@ -6,3 +6,5 @@ iOS app for calculating basic calculations. Created as practice in Swift by foll
   - Basic add, subtract, multiply and divide calculations
   - Clear button
   - Does not crash when dividing with zero 😉
+
+![Image of RetroCalc promo image](https://github.com/mrouru/RetroCalc/blob/master/Resources/RetroCalcPromo.png)
